@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab14" targetName="all" />
+      <config projectName="lab14" targetName="compile" />
+      <config projectName="lab14" targetName="doxygen" />
+      <config projectName="lab14" targetName="format" />
+      <config projectName="lab14" targetName="prep" />
+      <config projectName="lab14" targetName="run" />
+      <config projectName="lab14" targetName="main.bin" />
+      <config projectName="lab14" targetName="tidy" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc3c75d-6b54-4ad6-8a42-0dbef3f0155f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab12/getc/lib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/getc/lib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/getc/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/lab12.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/lab12.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/lab12.dir/lib.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/CMakeFiles/lab12.dir/lib.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/lab12" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/cmake-build-debug/lab12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab12/printf/lib.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/printf/lib.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab15/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab15/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab18/cmake-build-debug/CMakeFiles/lab18.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab18/cmake-build-debug/CMakeFiles/lab18.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab18/cmake-build-debug/CMakeFiles/lab18.dir/lib.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../lab18/cmake-build-debug/CMakeFiles/lab18.dir/lib.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab18/cmake-build-debug/CMakeFiles/lab18.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../lab18/cmake-build-debug/CMakeFiles/lab18.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab18/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab18/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab18/cmake-build-debug/lab18" beforeDir="false" afterPath="$PROJECT_DIR$/../lab18/cmake-build-debug/lab18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab19/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab19/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab19/guitar_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab19/guitar_result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab20/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab20/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab23/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab23/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab24/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab24/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab25/cmake-build-debug/CMakeFiles/lab25_test.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../lab25/cmake-build-debug/CMakeFiles/lab25_test.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab25/cmake-build-debug/CMakeFiles/lab25_test.dir/src/list.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../lab25/cmake-build-debug/CMakeFiles/lab25_test.dir/src/list.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab25/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab25/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab25/cmake-build-debug/lab25_test" beforeDir="false" afterPath="$PROJECT_DIR$/../lab25/cmake-build-debug/lab25_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab25/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab25/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab26/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab26/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab26/src/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab26/src/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab28/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab28/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab29/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lab29/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgz/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../rgz/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lab14" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lab14" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pnedbwwisk0kvWWKfVREey54Hs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RGZ" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="compile" CONFIG_NAME="compile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="doxygen" CONFIG_NAME="doxygen" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="format" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="format" CONFIG_NAME="format" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.bin" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="main.bin" CONFIG_NAME="main.bin" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prep" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="prep" CONFIG_NAME="prep" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="run" CONFIG_NAME="run" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tidy" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab14" TARGET_NAME="tidy" CONFIG_NAME="tidy" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.compile" />
+      <item itemvalue="Makefile Application.doxygen" />
+      <item itemvalue="Makefile Application.format" />
+      <item itemvalue="Makefile Application.main.bin" />
+      <item itemvalue="Makefile Application.prep" />
+      <item itemvalue="Makefile Application.run" />
+      <item itemvalue="Makefile Application.tidy" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc3c75d-6b54-4ad6-8a42-0dbef3f0155f" name="Default Changelist" comment="" />
+      <created>1615823370549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615823370549</updated>
+      <workItem from="1615823375253" duration="1200000" />
+      <workItem from="1615838152757" duration="672000" />
+      <workItem from="1615876205594" duration="697000" />
+      <workItem from="1615877302883" duration="942000" />
+      <workItem from="1616079048359" duration="415000" />
+      <workItem from="1616429600185" duration="1006000" />
+      <workItem from="1616692774079" duration="1421000" />
+      <workItem from="1617000956187" duration="6256000" />
+      <workItem from="1618503412215" duration="13000" />
+      <workItem from="1618574412865" duration="47000" />
+      <workItem from="1618575021640" duration="689000" />
+      <workItem from="1618578268371" duration="4172000" />
+      <workItem from="1618839740619" duration="27000" />
+      <workItem from="1618843359854" duration="688000" />
+      <workItem from="1620565725278" duration="52000" />
+      <workItem from="1620566312513" duration="1464000" />
+      <workItem from="1621285624110" duration="757000" />
+      <workItem from="1621319918136" duration="32000" />
+      <workItem from="1621884462957" duration="77000" />
+      <workItem from="1621929425740" duration="41000" />
+      <workItem from="1621938006747" duration="2599000" />
+      <workItem from="1621940986060" duration="1939000" />
+      <workItem from="1621950552955" duration="711000" />
+      <workItem from="1621951455926" duration="520000" />
+      <workItem from="1621952068061" duration="115000" />
+      <workItem from="1621952378769" duration="249000" />
+      <workItem from="1621952679900" duration="714000" />
+      <workItem from="1621953442339" duration="64000" />
+      <workItem from="1621955213949" duration="1255000" />
+      <workItem from="1621957397524" duration="188000" />
+      <workItem from="1621958448942" duration="25000" />
+      <workItem from="1621967387937" duration="136000" />
+      <workItem from="1623355131973" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

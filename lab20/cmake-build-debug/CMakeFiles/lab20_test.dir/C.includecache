@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sascha/Programing/lab20/src/guitar.c
+guitar.h
+/home/sascha/Programing/lab20/src/guitar.h
+list.h
+/home/sascha/Programing/lab20/src/list.h
+
+/home/sascha/Programing/lab20/src/guitar.h
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+errno.h
+-
+time.h
+/home/sascha/Programing/lab20/src/time.h
+
+/home/sascha/Programing/lab20/src/list.c
+list.h
+/home/sascha/Programing/lab20/src/list.h
+
+/home/sascha/Programing/lab20/src/list.h
+guitar.h
+/home/sascha/Programing/lab20/src/guitar.h
+
+/home/sascha/Programing/lab20/test/test.c
+../src/list.h
+/home/sascha/Programing/lab20/src/list.h
+

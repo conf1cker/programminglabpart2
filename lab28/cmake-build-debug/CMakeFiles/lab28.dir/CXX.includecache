@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sascha/Programing/lab28/src/main.cpp
+tasks.h
+/home/sascha/Programing/lab28/src/tasks.h
+
+/home/sascha/Programing/lab28/src/menu.cpp
+menu.h
+/home/sascha/Programing/lab28/src/menu.h
+tasks.h
+/home/sascha/Programing/lab28/src/tasks.h
+
+/home/sascha/Programing/lab28/src/menu.h
+iostream
+-
+string
+-
+fstream
+-
+stdexcept
+-
+
+/home/sascha/Programing/lab28/src/tasks.cpp
+tasks.h
+/home/sascha/Programing/lab28/src/tasks.h
+
+/home/sascha/Programing/lab28/src/tasks.h
+menu.h
+/home/sascha/Programing/lab28/src/menu.h
+

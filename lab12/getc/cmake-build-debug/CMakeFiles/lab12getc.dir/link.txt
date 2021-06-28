@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lab12getc.dir/main.c.o CMakeFiles/lab12getc.dir/lib.c.o -o lab12getc 

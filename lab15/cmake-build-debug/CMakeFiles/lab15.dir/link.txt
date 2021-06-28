@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lab15.dir/main.c.o CMakeFiles/lab15.dir/lib.c.o -o lab15 

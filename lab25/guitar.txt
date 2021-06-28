@@ -1,0 +1,5 @@
+1 Fender 19 8 0 1
+0 Takamine 20 10 2 0
+1 Yamaha 19 11 4 2
+1 Gibson 22 12 3 3
+0 Crafter 23 9 2 0

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab30.dir/src/main.cpp.o CMakeFiles/lab30.dir/src/task.cpp.o -o lab30 

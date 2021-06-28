@@ -1,0 +1,5 @@
+0  Fender  19  8  0  1  3  0
+0  Fender  27  10  4  0  1  2
+1  Yamaha  18  11  3  0  65  1
+0  Gibson  27  12  4  0  80  2
+1  Ibanez  26  9  5  0  100  2

@@ -1,0 +1,31 @@
+Availability of a pickup: Yes
+Firma: Fender
+Guitar_tunes :19
+Min_string_thickness : 8
+The Guitar materials:  Synthetic
+The Guitar size: 1
+
+Availability of a pickup: NO
+Firma: Takamine
+Guitar_tunes :20
+Min_string_thickness : 10
+The Guitar materials: Gold 
+
+Availability of a pickup: Yes
+Firma: Yamaha
+Guitar_tunes :19
+Min_string_thickness : 11
+The Guitar materials: Bronze
+
+Availability of a pickup: Yes
+Firma: Gibson
+Guitar_tunes :22
+Min_string_thickness : 12
+The Guitar materials: Steel_and_nicole
+
+Availability of a pickup: NO
+Firma: Crafter
+Guitar_tunes :23
+Min_string_thickness : 9
+The Guitar materials: Gold 
+

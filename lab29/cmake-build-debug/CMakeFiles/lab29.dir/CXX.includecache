@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sascha/Programing/lab29/src/list.hpp
+string
+-
+sstream
+-
+cstring
+-
+iostream
+-
+fstream
+-
+regex
+-
+
+/home/sascha/Programing/lab29/src/main.cpp
+list.hpp
+/home/sascha/Programing/lab29/src/list.hpp
+

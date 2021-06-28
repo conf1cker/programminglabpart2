@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sascha/Programing/lab12/getc/lib.c
+lib.h
+/home/sascha/Programing/lab12/getc/lib.h
+
+/home/sascha/Programing/lab12/getc/lib.h
+malloc.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+

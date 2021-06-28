@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab28.dir/src/main.cpp.o CMakeFiles/lab28.dir/src/menu.cpp.o CMakeFiles/lab28.dir/src/tasks.cpp.o -o lab28 

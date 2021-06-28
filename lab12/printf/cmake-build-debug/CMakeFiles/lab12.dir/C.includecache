@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sascha/Programing/lab12/printf/lib.c
+lib.h
+/home/sascha/Programing/lab12/printf/lib.h
+
+/home/sascha/Programing/lab12/printf/lib.h
+malloc.h
+-
+stdlib.h
+-
+stdio.h
+-
+

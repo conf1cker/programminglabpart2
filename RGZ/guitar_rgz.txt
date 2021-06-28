@@ -1,0 +1,6 @@
+E 0 Fender 19 8 0 0 3 2
+E 1 Takamine 23 9 1 1 2 0
+E 0 Fender 27 10 4 2 1 1
+A 1 Yamaha 18 11 3 3 65 1
+A 0 Gibson 27 12 4 2 80 2
+A 1 Ibanez 26 9 5 1 100 3

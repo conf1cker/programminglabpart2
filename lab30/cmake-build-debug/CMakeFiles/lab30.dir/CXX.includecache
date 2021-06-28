@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sascha/Programing/lab30/src/main.cpp
+task.h
+/home/sascha/Programing/lab30/src/task.h
+
+/home/sascha/Programing/lab30/src/task.cpp
+task.h
+/home/sascha/Programing/lab30/src/task.h
+
+/home/sascha/Programing/lab30/src/task.h
+string
+-
+sstream
+-
+cstring
+-
+iostream
+-
+fstream
+-
+regex
+-
+vector
+-
+set
+-
+list
+-
+algorithm
+-
+

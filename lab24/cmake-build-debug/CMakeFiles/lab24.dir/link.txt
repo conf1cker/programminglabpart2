@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab24.dir/src/guitar.cpp.o CMakeFiles/lab24.dir/src/list.cpp.o CMakeFiles/lab24.dir/src/main.cpp.o -o lab24 

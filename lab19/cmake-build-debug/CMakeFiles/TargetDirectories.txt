@@ -1,0 +1,4 @@
+/home/sascha/Programing/lab19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sascha/Programing/lab19/cmake-build-debug/CMakeFiles/lab19_test.dir
+/home/sascha/Programing/lab19/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sascha/Programing/lab19/cmake-build-debug/CMakeFiles/lab19_main.dir
